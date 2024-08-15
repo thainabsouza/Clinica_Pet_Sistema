@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -70,6 +71,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
+=======
+>>>>>>> 39b2b67 (Mensagem de commit)
 Instruções para de como rodar o Projeto 
 1- Descompactar 
 2 - Abrir no editor de codigos e rodar o projeto através do arquivo: ProjetoAplication 
@@ -80,4 +83,7 @@ Instruções para de como rodar o Projeto
 A documentação em swagger está nesse link: http://localhost:8080/swagger-ui/index.html#/
 
 o Banco de dados foi criado no banco postgres.
+<<<<<<< HEAD
 >>>>>>> ae2e52f61c5c0924a75e54bfea044c2074c2d324
+=======
+>>>>>>> 39b2b67 (Mensagem de commit)
